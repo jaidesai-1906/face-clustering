@@ -1,0 +1,4 @@
+numpy
+Pillow
+face_recognition
+scikit-learn
