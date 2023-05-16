@@ -1,6 +1,6 @@
 # Face Recognition and Clustering
 
-This project contains a Python script that uses face recognition and machine learning techniques to cluster images based on the faces they contain. The script identifies the faces in each image, encodes them into vectors, and uses these vectors to group similar faces together.
+This project contains a Python Notebook that uses face recognition and machine learning techniques to cluster images based on the faces they contain. The script identifies the faces in each image, encodes them into vectors, and uses these vectors to group similar faces together.
 
 ## How It Works
 
