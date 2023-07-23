@@ -24,7 +24,7 @@ To run this script, you need Python 3.7 or later.
 ## Usage
 
 1. Collect the images you want to cluster in a folder. These can be .jpg, .png, or .jpeg files.
-2. Update the `image_folder` variable in the script to the path of this folder.
+2. Update the `image_folder` variable in the script to the path of a folder that contains images you wish to cluster.
 3. Run all the cells in the notebook.
 4. The script will create an 'output' folder in the same directory. Inside this folder, you will find separate folders for each cluster of images, named 'cluster_0', 'cluster_1', etc. Images with faces that couldn't be confidently assigned to a cluster will be in the 'doubtful (possibly clustered)' folder.
 
